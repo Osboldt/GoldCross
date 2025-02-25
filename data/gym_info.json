@@ -1,0 +1,38 @@
+{
+    "plans": [
+        {
+            "name": "Basic",
+            "price": "R$ 99,90",
+            "features": ["Musculação", "Área funcional"],
+            "description": "Plano ideal para iniciantes"
+        },
+        {
+            "name": "Premium",
+            "price": "R$ 149,90",
+            "features": ["Musculação", "CrossFit", "Aulas coletivas"],
+            "description": "Acesso completo a todas as modalidades"
+        }
+    ],
+    "classes": [
+        {
+            "name": "CrossFit",
+            "schedule": ["07:00", "09:00", "18:00", "20:00"],
+            "description": "Treino funcional de alta intensidade"
+        },
+        {
+            "name": "Musculação",
+            "schedule": "06:00 às 23:00",
+            "description": "Área de musculação com equipamentos modernos"
+        }
+    ],
+    "faq": [
+        {
+            "question": "Preciso agendar horário?",
+            "answer": "Apenas para aulas de CrossFit. Musculação é livre."
+        },
+        {
+            "question": "Qual o período de experiência?",
+            "answer": "Oferecemos 7 dias grátis para novos alunos."
+        }
+    ]
+}
